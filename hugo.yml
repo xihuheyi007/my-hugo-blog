@@ -1,0 +1,61 @@
+baseURL: "https://your-blog.vercel.app" # 【必填】部署后改为你的真实域名
+title: "我的 Hugo 博客"
+pagination:
+  pagerSize: 10
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# 优化设置：生成纯净的 HTML
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # 生产环境模式
+  title: "我的 Hugo 博客"
+  description: "基于 Hugo PaperMod 的高性能博客"
+  keywords: [Blog, Hugo, PaperMod]
+  author: Me
+  
+  # 界面显示设置
+  defaultTheme: auto # 跟随系统自动切换黑白模式
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  useHugoToc: true
+  
+  # 首页设置
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: "欢迎来到我的极速博客。这里由 Hugo 驱动，部署于 Vercel。"
+
+  # 社交链接 (不需要的删掉)
+  socialIcons:
+    - name: github
+      url: "https://github.com/yourname"
+    - name: email
+      url: "mailto:yourname@email.com"
+
+# 菜单栏配置
+menu:
+  main:
+    - identifier: categories
+      name: 分类
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: 标签
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: 归档
+      url: /archives/
+      weight: 30
