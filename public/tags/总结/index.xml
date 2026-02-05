@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>随笔 on 静水流深</title>
-    <link>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</link>
-    <description>Recent content in 随笔 on 静水流深</description>
+    <title>总结 on 静水流深</title>
+    <link>http://localhost:1313/tags/%E6%80%BB%E7%BB%93/</link>
+    <description>Recent content in 总结 on 静水流深</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 30 Jun 2024 21:30:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024年考研小结</title>
       <link>http://localhost:1313/posts/kaoyan/</link>
@@ -20,18 +20,6 @@
 &lt;p&gt;进入十月，先是姐姐订婚，国庆假期回家祝贺。后又是爷爷不幸病逝，奔丧十余日。学习进程极大延缓，以至于数学强化阶段直到十一月初才结束，考研失败的压力陡增。但有了一战失败的教训，我也明白光焦虑并不能帮到我，于是尝试放平心态，一步一步来，尽量把学习任务拆解分开完成，保证复习到的能真正领会。到了十一月底我发现我的专业课进度近乎为零。因为我认为自己有一定的经济学专业基础，而且学习经济学到了二战时候已经边际效用不高，基本上概念知识点都已经全部理解，仅剩遗忘的问题。所以田忌赛马般我选择将专业课优先级甚至排在政治英语的后面。后来证明这个策略确实取得了一定成功，在没有很多投入的情况下，我的专业课只比去年低了5分，但英语和政治两门课比去年高了23分。但是实话实说108分，对于经济学的专业课来说，是一个相对较低的分数。如果有更多时间的话，再多增加一些投入增加一些背诵，这个分数应该还能更高。我的英语基础一直比较扎实，所以本次考研取得了一定进步也是理所应当。对于政治来说，我觉得客观题也就是选择题我确实花了挺多时间，而主观题我甚至没有背诵肖4，仅仅在考前排队的时候看了几眼，能考到这个分数还是有一定幸运的成分。对于重头戏数学，多复习了半年的我只提高了1分，可能临场发挥出现问题，但更多的还是复习不到位，还是应该更扎实得脚踏实地学习。&lt;/p&gt;
 &lt;p&gt;2024年2月26日初试成绩公布，看到排名我意识到一志愿已经失败，于是着手看调剂院校。四月份开调剂系统，经过综合考虑，我选择的三个学校都给我发来了复试通知，调剂选学校的过程相比于初试确实更加理性，我意识到我的分数在沿海地区的双非甚至是母校浙财都没有竞争力，相比之下新大确实是实打实的211双一流平台，于是我没有盲目冲击，稳扎稳打，通过较为优秀的复试表现最后被新大录取。值得一提的是在这期间我还参加了24年江西省考，并且幸运的进入了面试环节，最终差两分未能录取。这次经历对我来说最大的收获就是增强了我的信心和经验，希望三年后选择考公的话能一举上岸。&lt;/p&gt;
 &lt;p&gt;人生是旷野，不能一直停留在原地。未来三年的新疆生活，路途遥远，充满挑战，愿能继续努力，活的精彩。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我的第一篇 Hugo 文章</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Tue, 30 Jan 2024 21:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;h2 id=&#34;为什么选-hugo&#34;&gt;为什么选 Hugo？&lt;/h2&gt;
-&lt;p&gt;Hugo 是世界上最快的网站构建工具。
-它生成的是纯静态 HTML 文件，没有任何多余的脚本。&lt;/p&gt;
-&lt;h3 id=&#34;代码高亮测试&#34;&gt;代码高亮测试&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Hugo!&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
