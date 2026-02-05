@@ -59,3 +59,13 @@ menu:
       name: 归档
       url: /archives/
       weight: 30
+
+assets:
+    favicon: "/favicon.png" # 对应 static 文件夹里的图片
+    favicon16x16: "/favicon.png"
+    favicon32x32: "/favicon.png"
+
+label:
+    text: "My Blog" # 左上角网站标题
+    icon: "/favicon.png" # 左上角小图标
+    iconHeight: 35
