@@ -8,7 +8,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-
+enableEmoji: true
 # 优化设置：生成纯净的 HTML
 minify:
   disableXML: true
@@ -17,9 +17,11 @@ minify:
 params:
   env: production # 生产环境模式
   title: "静水流深"
-  description: "基于 Hugo  的高性能博客"
+  description: "基于 Hugo 的高性能博客"
   keywords: [Blog, Hugo, PaperMod]
-  author: Me
+  author: Yuchen
+  ShowToc: true
+  TocOpen: true
   
   # 界面显示设置
   defaultTheme: auto # 跟随系统自动切换黑白模式
@@ -31,7 +33,8 @@ params:
   ShowCodeCopyButtons: true
   ShowWordCount: true
   useHugoToc: true
-  
+  ShowLastMod: true
+
   # 首页设置
   homeInfoParams:
     Title: "欢迎光临 👋"
@@ -48,24 +51,24 @@ params:
 menu:
   main:
     - identifier: categories
-      name: 分类
+      name: 🧩分类
       url: /categories/
       weight: 10
     - identifier: tags
-      name: 标签
+      name: 🔖标签
       url: /tags/
       weight: 20
     - identifier: archives
-      name: 归档
+      name: ⏱时间轴
       url: /archives/
       weight: 30
 
 assets:
-    favicon: "/static/favicon.png" # 对应 static 文件夹里的图片
-    favicon16x16: "/static/favicon.png"
-    favicon32x32: "/static/favicon.png"
+    favicon: "/static/favicon.ico" # 对应 static 文件夹里的图片
+    favicon16x16: "/static/favicon.ico"
+    favicon32x32: "/static/favicon.ico"
 
 label:
     text: "My Blog" # 左上角网站标题
-    icon: "/static/favicon.png" # 左上角小图标
+    icon: "/static/favicon.ico" # 左上角小图标
     iconHeight: 35

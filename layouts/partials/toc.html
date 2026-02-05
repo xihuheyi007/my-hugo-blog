@@ -1,0 +1,70 @@
+{{- $headers := findRE "<h[1-6].*?>(.|\n])+?</h[1-6]>" .Content -}}
+{{- $has_headers := ge (len $headers) 1 -}}
+{{- if $has_headers -}}
+
+<aside id="toc-container" class="toc-container wide">
+    <div class="toc">
+        <details {{if (.Param "TocOpen") }} open{{ end }}>
+            <summary accesskey="c" title="(Alt + C)">
+                <span class="details">{{- i18n "toc" | default "Table of Contents" }}</span>
+            </summary>
+
+            <div class="inner">
+                {{- $headers := findRE "<h[1-6].*?>(.|\n])+?</h[1-6]>" .Content -}}
+                {{- if ge (len $headers) 1 -}}
+                {{- .TableOfContents -}}
+                {{- end -}}
+            </div>
+        </details>
+    </div>
+</aside>
+
+<script>
+    let activeElement;
+    let elements;
+    window.addEventListener('DOMContentLoaded', function (event) {
+        checkTocPosition();
+
+        elements = document.querySelectorAll('h1[id],h2[id],h3[id],h4[id],h5[id],h6[id]');
+        // 默认激活第一个标题
+        if (elements.length > 0) {
+            activeElement = elements[0];
+            const id = encodeURI(activeElement.getAttribute('id')).toLowerCase();
+            document.querySelector(`.inner ul li a[href="#${id}"]`).classList.add('active');
+        }
+    }, false);
+
+    window.addEventListener('resize', function(event) {
+        checkTocPosition();
+    }, false);
+
+    // 监听滚动事件，高亮当前目录
+    window.addEventListener('scroll', () => {
+        const scrollPosition = window.scrollY || window.pageYOffset;
+        if (elements) {
+            elements.forEach(element => {
+                const id = encodeURI(element.getAttribute('id')).toLowerCase();
+                const link = document.querySelector(`.inner ul li a[href="#${id}"]`);
+                if (element.offsetTop <= scrollPosition + 100) { // 100px 偏移量
+                    document.querySelectorAll('.inner ul li a').forEach(a => a.classList.remove('active'));
+                    if (link) link.classList.add('active');
+                }
+            });
+        }
+    });
+
+    function checkTocPosition() {
+        const width = document.body.scrollWidth;
+        const main = parseInt(getComputedStyle(document.body).getPropertyValue('--article-width'), 10);
+        const toc = parseInt(getComputedStyle(document.body).getPropertyValue('--toc-width'), 10);
+        const gap = parseInt(getComputedStyle(document.body).getPropertyValue('--gap'), 10);
+
+        // 如果屏幕不够宽，移除 wide 类（即恢复为普通目录，不悬浮）
+        if (width - main - (toc * 2) - (gap * 4) > 0) {
+            document.getElementById("toc-container").classList.add("wide");
+        } else {
+            document.getElementById("toc-container").classList.remove("wide");
+        }
+    }
+</script>
+{{- end -}}
