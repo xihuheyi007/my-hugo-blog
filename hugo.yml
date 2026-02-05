@@ -1,5 +1,5 @@
-baseURL: "https://your-blog.vercel.app" # 【必填】部署后改为你的真实域名
-title: "我的 Hugo 博客"
+baseURL: "https://my-hugo-blog-blond.vercel.app/" # 【必填】部署后改为你的真实域名
+title: "静水流深"
 pagination:
   pagerSize: 10
 theme: "PaperMod"
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # 生产环境模式
-  title: "我的 Hugo 博客"
-  description: "基于 Hugo PaperMod 的高性能博客"
+  title: "静水流深"
+  description: "基于 Hugo  的高性能博客"
   keywords: [Blog, Hugo, PaperMod]
   author: Me
   
@@ -35,14 +35,14 @@ params:
   # 首页设置
   homeInfoParams:
     Title: "Hi there 👋"
-    Content: "欢迎来到我的极速博客。这里由 Hugo 驱动，部署于 Vercel。"
+    Content: "欢迎来到我的博客。这里由 Hugo 驱动，部署于 Vercel。"
 
   # 社交链接 (不需要的删掉)
   socialIcons:
     - name: github
-      url: "https://github.com/yourname"
+      url: "https://github.com/xihuheyi007"
     - name: email
-      url: "mailto:yourname@email.com"
+      url: "007@020720.xyz"
 
 # 菜单栏配置
 menu:
