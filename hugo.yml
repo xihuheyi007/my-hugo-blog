@@ -1,4 +1,4 @@
-baseURL: "https://my-hugo-blog-blond.vercel.app/" # 【必填】部署后改为你的真实域名
+baseURL: "https://www.baoyuchen.top/" # 【必填】部署后改为你的真实域名
 title: "静水流深"
 pagination:
   pagerSize: 10
