@@ -34,7 +34,7 @@ params:
   
   # 首页设置
   homeInfoParams:
-    Title: "Hi there 👋"
+    Title: "欢迎光临 👋"
     Content: "欢迎来到我的博客。这里由 Hugo 驱动，部署于 Vercel。"
 
   # 社交链接 (不需要的删掉)
@@ -61,11 +61,11 @@ menu:
       weight: 30
 
 assets:
-    favicon: "/favicon.png" # 对应 static 文件夹里的图片
-    favicon16x16: "/favicon.png"
-    favicon32x32: "/favicon.png"
+    favicon: "/static/favicon.png" # 对应 static 文件夹里的图片
+    favicon16x16: "/static/favicon.png"
+    favicon32x32: "/static/favicon.png"
 
 label:
     text: "My Blog" # 左上角网站标题
-    icon: "/favicon.png" # 左上角小图标
+    icon: "/static/favicon.png" # 左上角小图标
     iconHeight: 35
