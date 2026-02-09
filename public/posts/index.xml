@@ -2,24 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 静水流深</title>
-    <link>http://localhost:3551/posts/</link>
+    <link>https://www.baoyuchen.top/posts/</link>
     <description>Recent content in Posts on 静水流深</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Feb 2026 18:01:24 +0800</lastBuildDate>
-    <atom:link href="http://localhost:3551/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Feb 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://www.baoyuchen.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>老街</title>
+      <link>https://www.baoyuchen.top/posts/lao-jie/</link>
+      <pubDate>Mon, 09 Feb 2026 10:00:00 +0800</pubDate>
+      <guid>https://www.baoyuchen.top/posts/lao-jie/</guid>
+      <description>&lt;h2 id=&#34;青石板路&#34;&gt;青石板路&lt;/h2&gt;
+&lt;p&gt;清晨的老街，总是被一层薄薄的雾气笼罩。青石板路上还带着昨夜的湿润，踩上去发出轻微的声响，像是在诉说着岁月的故事。&lt;/p&gt;
+&lt;p&gt;两旁的木制老房子，斑驳的墙面爬满了青苔。那些窗户，有的还保留着古老的雕花，有的已经破损，却依然散发着独特的韵味。&lt;/p&gt;
+&lt;h2 id=&#34;早市的声音&#34;&gt;早市的声音&lt;/h2&gt;
+&lt;p&gt;当第一缕阳光穿过云层，老街便苏醒了。早市的人们开始聚集，小贩们的吆喝声此起彼伏：&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;新鲜的豆浆——&amp;rdquo;
+&amp;ldquo;刚出炉的馒头——&amp;rdquo;
+&amp;ldquo;卖栀子花嘞——&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;这些声音交织在一起，构成了老街独特的晨曲。买早餐的大爷，上学的孩童，晨练的老人，每个人的脸上都带着平静的微笑。&lt;/p&gt;
+&lt;h2 id=&#34;时光的痕迹&#34;&gt;时光的痕迹&lt;/h2&gt;
+&lt;p&gt;走在老街上，仿佛时光都慢了下来。没有城市的喧嚣，没有快节奏的生活，只有从容和悠闲。&lt;/p&gt;
+&lt;p&gt;那些老字号的招牌，虽然有些褪色，却依然矗立在那里。茶馆里飘出的茶香，混合着各种小吃和糕点的味道，让人感到无比亲切。&lt;/p&gt;
+&lt;h2 id=&#34;记忆中的模样&#34;&gt;记忆中的模样&lt;/h2&gt;
+&lt;p&gt;记得小时候，最喜欢跟着爷爷奶奶来老街。他们会在固定的茶馆坐下，泡一壶茶，聊着家常。我则会在街上跑来跑去，看看这个，摸摸那个。&lt;/p&gt;
+&lt;p&gt;如今，许多店铺都换上了新的门面，但那种熟悉的气息依然存在。偶尔还能听到几句方言，看到一些传统的手艺，让人倍感温暖。&lt;/p&gt;
+&lt;h2 id=&#34;永恒的守望&#34;&gt;永恒的守望&lt;/h2&gt;
+&lt;p&gt;老街就像一位守望的老人，静静地守护着这座城市的记忆。它见证了多少人的悲欢离合，承载了多少代人的青春岁月。&lt;/p&gt;
+&lt;p&gt;无论时代如何变迁，老街始终在这里，用它独特的方式，诉说着过去，也期待着未来。&lt;/p&gt;
+&lt;p&gt;在这里，时间仿佛失去了意义，一切都可以慢慢品味，细细感受。这就是老街的魅力，也是心灵的归宿。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>测试文章</title>
+      <link>https://www.baoyuchen.top/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Fri, 06 Feb 2026 23:53:08 +0800</pubDate>
+      <guid>https://www.baoyuchen.top/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+      <description>&lt;p&gt;测试&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:3551/posts/test/</link>
+      <link>https://www.baoyuchen.top/posts/test/</link>
       <pubDate>Mon, 02 Feb 2026 18:01:24 +0800</pubDate>
-      <guid>http://localhost:3551/posts/test/</guid>
+      <guid>https://www.baoyuchen.top/posts/test/</guid>
       <description></description>
     </item>
     <item>
       <title>2024年考研小结</title>
-      <link>http://localhost:3551/posts/kaoyan/</link>
+      <link>https://www.baoyuchen.top/posts/kaoyan/</link>
       <pubDate>Sun, 30 Jun 2024 21:30:00 +0800</pubDate>
-      <guid>http://localhost:3551/posts/kaoyan/</guid>
+      <guid>https://www.baoyuchen.top/posts/kaoyan/</guid>
       <description>&lt;p&gt;今天收到了录取通知书，考研二战也总算是画上了一个相对圆满的句号。调剂录取新疆大学，对于我这个初试只有351分的低分选手来说已经实属上策。说相对圆满，是因为回顾去年不到半年的备考经历，还是有一些遗憾。然而如秀妹所言“失败总是贯穿人生始终”，记录一些心得体会，只为日后能够裨补缺漏，有所广益。&lt;/p&gt;
 &lt;p&gt;坦白来说，去年真正开始全身心投入备考，还是在八月底学妹约我去图书馆自习之后。暑假两个月在杭州租房纯属劳力伤神耗财，去学校的日子屈指可数，自然也谈不上学到什么。九月份开学重新住进了学校，备考才真正规律起来，开启每天早六晚十生活，向来没有恒心的我竟然连续坚持早起小半年，多亏了我的新室友：一方面是闹了一点小矛盾，由于我十分明确我和他只会在同一屋檐下住一学期而已，所以我也懒得去维护修补人际关系；另一方面看着寝室床下日渐堆积的垃圾山实在作呕，我无奈被迫早出晚归。这里要说明一下我和另一位室友相处还是比较融洽的，可惜我初试完就办理退学，缘分也就仅止于此。九月的杭州天气晴朗，六点半迎着初升旭日从成蹊骑车到图书馆，晚上披着月光踩单车回来，这大概就是每天生活的常态。&lt;/p&gt;
 &lt;p&gt;九月份还有一个重要的节点就是开学之后，陆陆续续见到了之前群里聊的不错的吧友，我得以交了许多新朋友。他们大多是大一新生，和他们聊天相处给我带来了极大的愉悦感，每日死气沉沉的学习任务之间，穿插着“中午吃什么西北集合”的共进午餐，和饭后散步缓解压力环节。学习之余也有了同伴参加一些活动，桃李的桌游，萨莉亚的烤菠菜让人印象深刻，睡前的雀魂助眠环节更是治好了我的失眠问题。与这些可爱的学弟学妹们相遇是我的幸运，三年前铁哥来我寝室说他拿下了学校贴吧吧主问我要不要当小吧，像是叩开了命运之门，当时我绝不会想到，没有几个活人到处广告帖的财吧，日后会渐渐热闹繁荣，成为一个小小的朋友圈子，不得不感慨缘分妙不可言。&lt;/p&gt;
@@ -30,9 +62,9 @@
     </item>
     <item>
       <title>我的第一篇 Hugo 文章</title>
-      <link>http://localhost:3551/posts/hello-world/</link>
+      <link>https://www.baoyuchen.top/posts/hello-world/</link>
       <pubDate>Tue, 30 Jan 2024 21:30:00 +0800</pubDate>
-      <guid>http://localhost:3551/posts/hello-world/</guid>
+      <guid>https://www.baoyuchen.top/posts/hello-world/</guid>
       <description>&lt;h2 id=&#34;为什么选-hugo&#34;&gt;为什么选 Hugo？&lt;/h2&gt;
 &lt;p&gt;Hugo 是世界上最快的网站构建工具。
 它生成的是纯静态 HTML 文件，没有任何多余的脚本。&lt;/p&gt;
@@ -42,9 +74,9 @@
     </item>
     <item>
       <title>比特币：原理、市场发展与各国政策</title>
-      <link>http://localhost:3551/posts/bitcoin/</link>
+      <link>https://www.baoyuchen.top/posts/bitcoin/</link>
       <pubDate>Tue, 12 Apr 2022 21:30:00 +0800</pubDate>
-      <guid>http://localhost:3551/posts/bitcoin/</guid>
+      <guid>https://www.baoyuchen.top/posts/bitcoin/</guid>
       <description>&lt;p&gt;摘要：本文分析了比特币的技术原理，阐述了其自诞生以来的市场发展状况，以及不同国家对其的政策态度。得出的结论是比特币（Bitcoin，缩写BTC）是一种基于去中心化，采用点对点网络和共识主动性，开放源代码，以区块链作为底层技术的加密货币，由中本聪（网名）于2008年发表的论文诞生。其在全球市场上发展迅猛，币值一路升高并在高点处波动。中国和美国等国家都不承认其作为货币的地位，视其为一种数字（虚拟）商品。&lt;/p&gt;
 &lt;p&gt;关键词：比特币；虚拟货币原理；区块链；政策态度&lt;/p&gt;
 &lt;h2 id=&#34;一引言&#34;&gt;一、引言&lt;/h2&gt;

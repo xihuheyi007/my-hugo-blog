@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://localhost:3551/sitemap.xml
+Sitemap: https://www.baoyuchen.top/sitemap.xml

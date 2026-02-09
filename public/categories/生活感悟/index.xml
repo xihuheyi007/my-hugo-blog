@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>生活 on 静水流深</title>
-    <link>https://www.baoyuchen.top/tags/%E7%94%9F%E6%B4%BB/</link>
-    <description>Recent content in 生活 on 静水流深</description>
+    <title>生活感悟 on 静水流深</title>
+    <link>https://www.baoyuchen.top/categories/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/</link>
+    <description>Recent content in 生活感悟 on 静水流深</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 09 Feb 2026 10:00:00 +0800</lastBuildDate>
-    <atom:link href="https://www.baoyuchen.top/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.baoyuchen.top/categories/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>老街</title>
       <link>https://www.baoyuchen.top/posts/lao-jie/</link>
@@ -32,18 +32,6 @@
 &lt;p&gt;老街就像一位守望的老人，静静地守护着这座城市的记忆。它见证了多少人的悲欢离合，承载了多少代人的青春岁月。&lt;/p&gt;
 &lt;p&gt;无论时代如何变迁，老街始终在这里，用它独特的方式，诉说着过去，也期待着未来。&lt;/p&gt;
 &lt;p&gt;在这里，时间仿佛失去了意义，一切都可以慢慢品味，细细感受。这就是老街的魅力，也是心灵的归宿。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我的第一篇 Hugo 文章</title>
-      <link>https://www.baoyuchen.top/posts/hello-world/</link>
-      <pubDate>Tue, 30 Jan 2024 21:30:00 +0800</pubDate>
-      <guid>https://www.baoyuchen.top/posts/hello-world/</guid>
-      <description>&lt;h2 id=&#34;为什么选-hugo&#34;&gt;为什么选 Hugo？&lt;/h2&gt;
-&lt;p&gt;Hugo 是世界上最快的网站构建工具。
-它生成的是纯静态 HTML 文件，没有任何多余的脚本。&lt;/p&gt;
-&lt;h3 id=&#34;代码高亮测试&#34;&gt;代码高亮测试&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Hugo!&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

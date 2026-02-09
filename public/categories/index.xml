@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on 静水流深</title>
-    <link>http://localhost:3551/categories/</link>
+    <link>https://www.baoyuchen.top/categories/</link>
     <description>Recent content in Categories on 静水流深</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Jun 2024 21:30:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:3551/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Feb 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://www.baoyuchen.top/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>生活感悟</title>
+      <link>https://www.baoyuchen.top/categories/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/</link>
+      <pubDate>Mon, 09 Feb 2026 10:00:00 +0800</pubDate>
+      <guid>https://www.baoyuchen.top/categories/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/</guid>
+      <description></description>
+    </item>
     <item>
       <title>随笔</title>
-      <link>http://localhost:3551/categories/%E9%9A%8F%E7%AC%94/</link>
+      <link>https://www.baoyuchen.top/categories/%E9%9A%8F%E7%AC%94/</link>
       <pubDate>Sun, 30 Jun 2024 21:30:00 +0800</pubDate>
-      <guid>http://localhost:3551/categories/%E9%9A%8F%E7%AC%94/</guid>
+      <guid>https://www.baoyuchen.top/categories/%E9%9A%8F%E7%AC%94/</guid>
       <description></description>
     </item>
     <item>
       <title>归档</title>
-      <link>http://localhost:3551/categories/%E5%BD%92%E6%A1%A3/</link>
+      <link>https://www.baoyuchen.top/categories/%E5%BD%92%E6%A1%A3/</link>
       <pubDate>Tue, 12 Apr 2022 21:30:00 +0800</pubDate>
-      <guid>http://localhost:3551/categories/%E5%BD%92%E6%A1%A3/</guid>
+      <guid>https://www.baoyuchen.top/categories/%E5%BD%92%E6%A1%A3/</guid>
       <description></description>
     </item>
   </channel>
