@@ -3,7 +3,10 @@
     "allow": [
       "Bash(hugo wordcount:*)",
       "Bash(timeout:*)",
-      "Bash(hugo:*)"
+      "Bash(hugo:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ]
   }
 }
