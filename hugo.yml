@@ -30,7 +30,7 @@ params:
   defaultTheme: auto # 跟随系统自动切换黑白模式
   disableThemeToggle: false
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -56,7 +56,7 @@ params:
     - name: github
       url: "https://github.com/xihuheyi007"
     - name: email
-      url: "007@020720.xyz"
+      url: "mailto:007@020720.xyz"
 
 # 菜单栏配置
 menu:
