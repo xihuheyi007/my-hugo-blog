@@ -1,6 +1,6 @@
 ---
 title: "赏月记"
-date: 2016
+date: 2016-06-30T21:30:00+08:00
 draft: false
 tags: ["感想"]
 categories: ["随笔"]
