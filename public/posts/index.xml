@@ -2,59 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 静水流深</title>
-    <link>https://blog.baoyuchen.top/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on 静水流深</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Feb 2026 10:00:00 +0800</lastBuildDate>
-    <atom:link href="https://blog.baoyuchen.top/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>老街</title>
-      <link>https://blog.baoyuchen.top/posts/lao-jie/</link>
-      <pubDate>Mon, 09 Feb 2026 10:00:00 +0800</pubDate>
-      <guid>https://blog.baoyuchen.top/posts/lao-jie/</guid>
-      <description>&lt;h2 id=&#34;青石板路&#34;&gt;青石板路&lt;/h2&gt;
-&lt;p&gt;清晨的老街，总是被一层薄薄的雾气笼罩。青石板路上还带着昨夜的湿润，踩上去发出轻微的声响，像是在诉说着岁月的故事。&lt;/p&gt;
-&lt;p&gt;两旁的木制老房子，斑驳的墙面爬满了青苔。那些窗户，有的还保留着古老的雕花，有的已经破损，却依然散发着独特的韵味。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>测试文章</title>
-      <link>https://blog.baoyuchen.top/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
-      <pubDate>Fri, 06 Feb 2026 23:53:08 +0800</pubDate>
-      <guid>https://blog.baoyuchen.top/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>https://blog.baoyuchen.top/posts/test/</link>
-      <pubDate>Mon, 02 Feb 2026 18:01:24 +0800</pubDate>
-      <guid>https://blog.baoyuchen.top/posts/test/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2024年考研小结</title>
-      <link>https://blog.baoyuchen.top/posts/kaoyan/</link>
-      <pubDate>Sun, 30 Jun 2024 21:30:00 +0800</pubDate>
-      <guid>https://blog.baoyuchen.top/posts/kaoyan/</guid>
-      <description>&lt;p&gt;今天收到了录取通知书，考研二战也总算是画上了一个相对圆满的句号。调剂录取新疆大学，对于我这个初试只有351分的低分选手来说已经实属上策。说相对圆满，是因为回顾去年不到半年的备考经历，还是有一些遗憾。然而如秀妹所言“失败总是贯穿人生始终”，记录一些心得体会，只为日后能够裨补缺漏，有所广益。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我的第一篇 Hugo 文章</title>
-      <link>https://blog.baoyuchen.top/posts/hello-world/</link>
-      <pubDate>Tue, 30 Jan 2024 21:30:00 +0800</pubDate>
-      <guid>https://blog.baoyuchen.top/posts/hello-world/</guid>
-      <description>&lt;h2 id=&#34;为什么选-hugo&#34;&gt;为什么选 Hugo？&lt;/h2&gt;
-&lt;p&gt;Hugo 是世界上最快的网站构建工具。
-它生成的是纯静态 HTML 文件，没有任何多余的脚本。&lt;/p&gt;
-&lt;h3 id=&#34;代码高亮测试&#34;&gt;代码高亮测试&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Hugo!&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
+    <lastBuildDate>Tue, 12 Apr 2022 21:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>比特币：原理、市场发展与各国政策</title>
-      <link>https://blog.baoyuchen.top/posts/bitcoin/</link>
+      <link>http://localhost:1313/posts/bitcoin/</link>
       <pubDate>Tue, 12 Apr 2022 21:30:00 +0800</pubDate>
-      <guid>https://blog.baoyuchen.top/posts/bitcoin/</guid>
+      <guid>http://localhost:1313/posts/bitcoin/</guid>
       <description>&lt;p&gt;摘要：本文分析了比特币的技术原理，阐述了其自诞生以来的市场发展状况，以及不同国家对其的政策态度。得出的结论是比特币（Bitcoin，缩写BTC）是一种基于去中心化，采用点对点网络和共识主动性，开放源代码，以区块链作为底层技术的加密货币，由中本聪（网名）于2008年发表的论文诞生。其在全球市场上发展迅猛，币值一路升高并在高点处波动。中国和美国等国家都不承认其作为货币的地位，视其为一种数字（虚拟）商品。&lt;/p&gt;</description>
     </item>
   </channel>

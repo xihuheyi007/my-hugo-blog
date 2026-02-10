@@ -1,7 +1,7 @@
 ---
 title: "2024年考研小结"
 date: 2024-06-30T21:30:00+08:00
-draft: true
+draft: false
 tags: ["感想", "总结"]
 categories: ["随笔"]
 ---

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>感想 on 静水流深</title>
-    <link>https://blog.baoyuchen.top/tags/%E6%84%9F%E6%83%B3/</link>
+    <link>http://localhost:1313/tags/%E6%84%9F%E6%83%B3/</link>
     <description>Recent content in 感想 on 静水流深</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 30 Jun 2024 21:30:00 +0800</lastBuildDate>
-    <atom:link href="https://blog.baoyuchen.top/tags/%E6%84%9F%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%84%9F%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024年考研小结</title>
-      <link>https://blog.baoyuchen.top/posts/kaoyan/</link>
+      <link>http://localhost:1313/posts/kaoyan/</link>
       <pubDate>Sun, 30 Jun 2024 21:30:00 +0800</pubDate>
-      <guid>https://blog.baoyuchen.top/posts/kaoyan/</guid>
-      <description>&lt;p&gt;今天收到了录取通知书，考研二战也总算是画上了一个相对圆满的句号。调剂录取新疆大学，对于我这个初试只有351分的低分选手来说已经实属上策。说相对圆满，是因为回顾去年不到半年的备考经历，还是有一些遗憾。然而如秀妹所言“失败总是贯穿人生始终”，记录一些心得体会，只为日后能够裨补缺漏，有所广益。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/kaoyan/</guid>
+      <description>&lt;p&gt;今天收到了录取通知书，考研二战也总算是画上了一个相对圆满的句号。调剂录取新疆大学，对于我这个初试只有351分的低分选手来说已经实属上策。说相对圆满，是因为回顾去年不到半年的备考经历，还是有一些遗憾。然而如 showmaker 所言“失败总是贯穿人生始终”，记录一些心得体会，只为日后能够裨补缺漏，有所广益。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

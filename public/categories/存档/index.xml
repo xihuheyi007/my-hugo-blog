@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>课程作业 on 静水流深</title>
-    <link>http://localhost:1313/tags/%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A/</link>
-    <description>Recent content in 课程作业 on 静水流深</description>
+    <title>存档 on 静水流深</title>
+    <link>http://localhost:1313/categories/%E5%AD%98%E6%A1%A3/</link>
+    <description>Recent content in 存档 on 静水流深</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 12 Apr 2022 21:30:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%E5%AD%98%E6%A1%A3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>比特币：原理、市场发展与各国政策</title>
       <link>http://localhost:1313/posts/bitcoin/</link>
