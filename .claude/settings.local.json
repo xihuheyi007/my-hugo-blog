@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(hugo wordcount:*)"
+      "Bash(hugo wordcount:*)",
+      "Bash(timeout:*)",
+      "Bash(hugo:*)"
     ]
   }
 }
