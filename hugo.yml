@@ -9,6 +9,9 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
+hasCJKLanguage: true
+ 
+
 # 优化设置：生成纯净的 HTML
 minify:
   disableXML: true
@@ -35,10 +38,18 @@ params:
   useHugoToc: true
   ShowLastMod: true
 
-  # 首页设置
-  homeInfoParams:
-    Title: "欢迎光临 👋"
-    Content: "欢迎来到我的博客。这里由 Hugo 驱动，部署于 Vercel。"
+  # # 首页设置
+  # homeInfoParams:
+  #   Title: "欢迎光临 👋"
+  #   Content: "欢迎来到我的博客。这里由 Hugo 驱动，部署于 Vercel。"
+
+  profileMode:                # Profile 模式（我选的这个）
+    enabled: true
+    title: "My Wilderness"    # 主标题
+    subtitle: "记录、思考、探索"
+    # imageUrl: "/images/avatar.jpg"  # 头像路径
+    imageWidth: 120
+    imageHeight: 120
 
   # 社交链接 (不需要的删掉)
   socialIcons:

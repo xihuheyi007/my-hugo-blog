@@ -2,42 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>生活 on 静水流深</title>
-    <link>https://www.baoyuchen.top/tags/%E7%94%9F%E6%B4%BB/</link>
+    <link>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/</link>
     <description>Recent content in 生活 on 静水流深</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 09 Feb 2026 10:00:00 +0800</lastBuildDate>
-    <atom:link href="https://www.baoyuchen.top/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>老街</title>
-      <link>https://www.baoyuchen.top/posts/lao-jie/</link>
+      <link>http://localhost:1313/posts/lao-jie/</link>
       <pubDate>Mon, 09 Feb 2026 10:00:00 +0800</pubDate>
-      <guid>https://www.baoyuchen.top/posts/lao-jie/</guid>
+      <guid>http://localhost:1313/posts/lao-jie/</guid>
       <description>&lt;h2 id=&#34;青石板路&#34;&gt;青石板路&lt;/h2&gt;
 &lt;p&gt;清晨的老街，总是被一层薄薄的雾气笼罩。青石板路上还带着昨夜的湿润，踩上去发出轻微的声响，像是在诉说着岁月的故事。&lt;/p&gt;
-&lt;p&gt;两旁的木制老房子，斑驳的墙面爬满了青苔。那些窗户，有的还保留着古老的雕花，有的已经破损，却依然散发着独特的韵味。&lt;/p&gt;
-&lt;h2 id=&#34;早市的声音&#34;&gt;早市的声音&lt;/h2&gt;
-&lt;p&gt;当第一缕阳光穿过云层，老街便苏醒了。早市的人们开始聚集，小贩们的吆喝声此起彼伏：&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;新鲜的豆浆——&amp;rdquo;
-&amp;ldquo;刚出炉的馒头——&amp;rdquo;
-&amp;ldquo;卖栀子花嘞——&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;这些声音交织在一起，构成了老街独特的晨曲。买早餐的大爷，上学的孩童，晨练的老人，每个人的脸上都带着平静的微笑。&lt;/p&gt;
-&lt;h2 id=&#34;时光的痕迹&#34;&gt;时光的痕迹&lt;/h2&gt;
-&lt;p&gt;走在老街上，仿佛时光都慢了下来。没有城市的喧嚣，没有快节奏的生活，只有从容和悠闲。&lt;/p&gt;
-&lt;p&gt;那些老字号的招牌，虽然有些褪色，却依然矗立在那里。茶馆里飘出的茶香，混合着各种小吃和糕点的味道，让人感到无比亲切。&lt;/p&gt;
-&lt;h2 id=&#34;记忆中的模样&#34;&gt;记忆中的模样&lt;/h2&gt;
-&lt;p&gt;记得小时候，最喜欢跟着爷爷奶奶来老街。他们会在固定的茶馆坐下，泡一壶茶，聊着家常。我则会在街上跑来跑去，看看这个，摸摸那个。&lt;/p&gt;
-&lt;p&gt;如今，许多店铺都换上了新的门面，但那种熟悉的气息依然存在。偶尔还能听到几句方言，看到一些传统的手艺，让人倍感温暖。&lt;/p&gt;
-&lt;h2 id=&#34;永恒的守望&#34;&gt;永恒的守望&lt;/h2&gt;
-&lt;p&gt;老街就像一位守望的老人，静静地守护着这座城市的记忆。它见证了多少人的悲欢离合，承载了多少代人的青春岁月。&lt;/p&gt;
-&lt;p&gt;无论时代如何变迁，老街始终在这里，用它独特的方式，诉说着过去，也期待着未来。&lt;/p&gt;
-&lt;p&gt;在这里，时间仿佛失去了意义，一切都可以慢慢品味，细细感受。这就是老街的魅力，也是心灵的归宿。&lt;/p&gt;</description>
+&lt;p&gt;两旁的木制老房子，斑驳的墙面爬满了青苔。那些窗户，有的还保留着古老的雕花，有的已经破损，却依然散发着独特的韵味。&lt;/p&gt;</description>
     </item>
     <item>
       <title>我的第一篇 Hugo 文章</title>
-      <link>https://www.baoyuchen.top/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Tue, 30 Jan 2024 21:30:00 +0800</pubDate>
-      <guid>https://www.baoyuchen.top/posts/hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>&lt;h2 id=&#34;为什么选-hugo&#34;&gt;为什么选 Hugo？&lt;/h2&gt;
 &lt;p&gt;Hugo 是世界上最快的网站构建工具。
 它生成的是纯静态 HTML 文件，没有任何多余的脚本。&lt;/p&gt;
