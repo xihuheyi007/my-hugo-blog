@@ -6,8 +6,21 @@
     <description>Recent content on 静水流深</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Feb 2026 21:11:13 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 12:00:07 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>双重机器学习方法简介</title>
+      <link>http://localhost:1313/posts/ml/</link>
+      <pubDate>Mon, 30 Mar 2026 12:00:07 +0800</pubDate>
+      <guid>http://localhost:1313/posts/ml/</guid>
+      <description>&lt;p&gt;参夸文献：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;胡诗云, 江弘毅, 解海天. 双重机器学习的理论与应用——从“黑箱”到“工具箱”的实践指南[J]. 数量经济技术经济研究, 2026.&lt;/li&gt;
+&lt;li&gt;萧政. 机器学习和计量经济学[J]. 计量经济学报, 2025, 5(5): 1231-1243.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;一为什么要使用双重机器学习方法&#34;&gt;一、为什么要使用双重机器学习方法？&lt;/h1&gt;
+&lt;p&gt;在潜在结果框架中，因果效应是不同处理状态下的潜在结果之差（Rubin, 2005）。$Y=DY(1)+(1-D)Y(0)$，$Y(1)-Y(0)$为个体的异质性因果效应。识别是指通过对反事实的数据生成过程进行一定的假设（“识别假设”），找到从可观测总体分布唯一地还原出因果效应的方法。随后的估计则是给定从总体分布中获得的样本，通过统计分析得到因果效应的估计量。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2025</title>
       <link>http://localhost:1313/posts/2025/</link>
