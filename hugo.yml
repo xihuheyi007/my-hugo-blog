@@ -1,8 +1,23 @@
-baseURL: "https://blog.baoyuchen.top/" # 【必填】部署后改为你的真实域名
+baseURL: "https://blog.baoyuchen.top/"
 title: "静水流深"
 pagination:
   pagerSize: 10
 theme: "PaperMod"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+            - ['\[', '\]']
+            - ['$$', '$$']
+          inline:
+            - ['$', '$']
+            - ['\(', '\)']
+        enable: true
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -18,6 +33,7 @@ minify:
   minifyOutput: true
 
 params:
+  math: true
   env: production # 生产环境模式
   title: "静水流深"
   description: "基于 Hugo 的高性能博客"
