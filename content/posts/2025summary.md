@@ -1,6 +1,6 @@
 ---
 date: '2026-02-24T21:03:24+08:00'
-draft: false
+draft: true
 title: '2025summary'
 tags: ["总结"]
 categories: ["随笔"]
