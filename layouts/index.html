@@ -1,0 +1,45 @@
+{{- define "main" }}
+
+<div class="profile">
+    <div class="profile_inner">
+        <img draggable="false" src="https://xihuheyi007.github.io/picx-images-hosting/avatar.26llgi1q84.webp"
+            alt="profile image" title="profile image" height="120" width="120" />
+        <h1>My Wilderness</h1>
+        <span>记录、思考、探索</span>
+        {{- partial "social_icons.html" -}}
+    </div>
+</div>
+
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
+{{- $paginator := .Paginate $pages }}
+
+{{- range $index, $page := $paginator.Pages }}
+<article class="post-entry">
+    <header class="entry-header">
+        <h2>{{ .Title }}</h2>
+    </header>
+    <div class="entry-content">
+        <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+    </div>
+    <footer class="entry-footer">
+        {{- partial "post_meta.html" . -}}
+    </footer>
+    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+</article>
+{{- end }}
+
+{{- if gt $paginator.TotalPages 1 }}
+<footer class="page-footer">
+    <nav class="pagination">
+        {{- if $paginator.HasPrev }}
+        <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">« 上一页</a>
+        {{- end }}
+        {{- if $paginator.HasNext }}
+        <a class="next" href="{{ $paginator.Next.URL | absURL }}">下一页 »</a>
+        {{- end }}
+    </nav>
+</footer>
+{{- end }}
+
+{{- end }}

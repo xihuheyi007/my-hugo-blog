@@ -61,13 +61,8 @@ params:
    
 
 
-  profileMode:                # Profile 模式（我选的这个）
-    enabled: true
-    title: "My Wilderness"    # 主标题
-    subtitle: "记录、思考、探索"
-    imageUrl: "https://xihuheyi007.github.io/picx-images-hosting/avatar.26llgi1q84.webp"  # 替换为你的实际图片URL
-    imageWidth: 120
-    imageHeight: 120
+  profileMode:
+    enabled: false
 
   # 社交链接 (不需要的删掉)
   socialIcons:

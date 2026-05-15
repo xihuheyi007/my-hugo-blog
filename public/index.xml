@@ -6,8 +6,18 @@
     <description>Recent content on 静水流深</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 23:25:07 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 01:41:24 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud-Mail UI 优化实践</title>
+      <link>http://localhost:1313/posts/mail_edit/</link>
+      <pubDate>Thu, 30 Apr 2026 01:41:24 +0800</pubDate>
+      <guid>http://localhost:1313/posts/mail_edit/</guid>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;Cloud Mail 是一个基于 Cloudflare Workers 的邮箱服务项目，本文记录了对该项目的 UI 优化实践，包括主题系统升级、侧边栏改造和深色模式适配。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本文使用Minimax-2.7模型生成&lt;/p&gt;</description>
+    </item>
     <item>
       <title>倒U型关系检验方法指南</title>
       <link>http://localhost:1313/posts/inverted_u-shaped_relation/</link>
@@ -31,41 +41,6 @@
 &lt;/ol&gt;
 &lt;h1 id=&#34;一为什么要使用双重机器学习方法&#34;&gt;一、为什么要使用双重机器学习方法？&lt;/h1&gt;
 &lt;p&gt;在潜在结果框架中，因果效应是不同处理状态下的潜在结果之差（Rubin, 2005）。$Y=DY(1)+(1-D)Y(0)$，$Y(1)-Y(0)$为个体的异质性因果效应。识别是指通过对反事实的数据生成过程进行一定的假设（“识别假设”），找到从可观测总体分布唯一地还原出因果效应的方法。随后的估计则是给定从总体分布中获得的样本，通过统计分析得到因果效应的估计量。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2025</title>
-      <link>http://localhost:1313/posts/2025/</link>
-      <pubDate>Tue, 24 Feb 2026 21:11:13 +0800</pubDate>
-      <guid>http://localhost:1313/posts/2025/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/CJ3cZFZx0YUODtLL3K9p5g&#34;&gt;复盘方式&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2025summary</title>
-      <link>http://localhost:1313/posts/2025summary/</link>
-      <pubDate>Tue, 24 Feb 2026 21:03:24 +0800</pubDate>
-      <guid>http://localhost:1313/posts/2025summary/</guid>
-      <description>&lt;p&gt;一直想写个年终总结但总感觉思路匮乏无从下笔，今日碰巧看到一个网友的问卷模板，一些老生常谈的话题，倒也可以借来一用。&lt;/p&gt;
-&lt;h1 id=&#34;part-1&#34;&gt;Part 1&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;你今年做了哪些之前从未做过的事？
-参加学术会议。&lt;/li&gt;
-&lt;li&gt;你坚持年初时和自己许下的约定了吗？&lt;/li&gt;
-&lt;li&gt;你身边有人生孩子了吗？&lt;/li&gt;
-&lt;li&gt;你身边有人去世了吗？&lt;/li&gt;
-&lt;li&gt;你去了哪些城市/州/国家？&lt;/li&gt;
-&lt;li&gt;明年你想要拥有哪些今年没有的东西？&lt;/li&gt;
-&lt;li&gt;今年的哪个或哪些日子会铭刻在你的记忆中，为什么？&lt;/li&gt;
-&lt;li&gt;你今年最大的成就是什么？&lt;/li&gt;
-&lt;li&gt;你今年最大的失败是什么？&lt;/li&gt;
-&lt;li&gt;你今年还遇到过哪些困难？&lt;/li&gt;
-&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>放不下熟悉片段：返财专记</title>
-      <link>http://localhost:1313/posts/backtozufe/</link>
-      <pubDate>Wed, 18 Feb 2026 21:22:35 +0800</pubDate>
-      <guid>http://localhost:1313/posts/backtozufe/</guid>
-      <description>&lt;p&gt;和本科室友约定寒假在杭州小聚，难得人全部到齐的一次。毕业快三年了，四个人还没聚齐过，借着虚哥在杭州实习的机会终于成功会面✌️。既然到了杭州当然免不了常回家看看之财专集合活动，可惜虚哥感冒辉哥约会，只有我和杰哥两人前往下沙。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2024年考研小结</title>

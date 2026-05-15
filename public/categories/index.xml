@@ -6,8 +6,15 @@
     <description>Recent content in Categories on 静水流深</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 23:25:07 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 01:41:24 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>兴趣使然</title>
+      <link>http://localhost:1313/categories/%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6/</link>
+      <pubDate>Thu, 30 Apr 2026 01:41:24 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6/</guid>
+      <description></description>
+    </item>
     <item>
       <title>专业学习</title>
       <link>http://localhost:1313/categories/%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%B9%A0/</link>
@@ -18,7 +25,7 @@
     <item>
       <title>随笔</title>
       <link>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</link>
-      <pubDate>Tue, 24 Feb 2026 21:03:24 +0800</pubDate>
+      <pubDate>Sun, 30 Jun 2024 21:30:00 +0800</pubDate>
       <guid>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</guid>
       <description></description>
     </item>
