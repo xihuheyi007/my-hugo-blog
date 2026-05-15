@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on 静水流深</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:7659/categories/</link>
     <description>Recent content in Categories on 静水流深</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 01:41:24 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 May 2026 21:26:21 +0800</lastBuildDate>
+    <atom:link href="http://localhost:7659/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>兴趣使然</title>
-      <link>http://localhost:1313/categories/%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6/</link>
-      <pubDate>Thu, 30 Apr 2026 01:41:24 +0800</pubDate>
-      <guid>http://localhost:1313/categories/%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6/</guid>
+      <title>专业学习</title>
+      <link>http://localhost:7659/categories/%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Fri, 15 May 2026 21:26:21 +0800</pubDate>
+      <guid>http://localhost:7659/categories/%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%B9%A0/</guid>
       <description></description>
     </item>
     <item>
-      <title>专业学习</title>
-      <link>http://localhost:1313/categories/%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%B9%A0/</link>
-      <pubDate>Fri, 24 Apr 2026 23:25:07 +0800</pubDate>
-      <guid>http://localhost:1313/categories/%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%B9%A0/</guid>
+      <title>兴趣使然</title>
+      <link>http://localhost:7659/categories/%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6/</link>
+      <pubDate>Thu, 30 Apr 2026 01:41:24 +0800</pubDate>
+      <guid>http://localhost:7659/categories/%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6/</guid>
       <description></description>
     </item>
     <item>
       <title>随笔</title>
-      <link>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</link>
+      <link>http://localhost:7659/categories/%E9%9A%8F%E7%AC%94/</link>
       <pubDate>Wed, 18 Feb 2026 21:22:35 +0800</pubDate>
-      <guid>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</guid>
+      <guid>http://localhost:7659/categories/%E9%9A%8F%E7%AC%94/</guid>
       <description></description>
     </item>
     <item>
       <title>存档</title>
-      <link>http://localhost:1313/categories/%E5%AD%98%E6%A1%A3/</link>
+      <link>http://localhost:7659/categories/%E5%AD%98%E6%A1%A3/</link>
       <pubDate>Tue, 12 Apr 2022 21:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/categories/%E5%AD%98%E6%A1%A3/</guid>
+      <guid>http://localhost:7659/categories/%E5%AD%98%E6%A1%A3/</guid>
       <description></description>
     </item>
   </channel>

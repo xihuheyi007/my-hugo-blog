@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>兴趣使然 on 静水流深</title>
-    <link>http://localhost:1313/categories/%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6/</link>
+    <link>http://localhost:7659/categories/%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6/</link>
     <description>Recent content in 兴趣使然 on 静水流深</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 30 Apr 2026 01:41:24 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:7659/categories/%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloud-Mail UI 优化实践</title>
-      <link>http://localhost:1313/posts/mail_edit/</link>
+      <link>http://localhost:7659/posts/mail_edit/</link>
       <pubDate>Thu, 30 Apr 2026 01:41:24 +0800</pubDate>
-      <guid>http://localhost:1313/posts/mail_edit/</guid>
+      <guid>http://localhost:7659/posts/mail_edit/</guid>
       <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;Cloud Mail 是一个基于 Cloudflare Workers 的邮箱服务项目，本文记录了对该项目的 UI 优化实践，包括主题系统升级、侧边栏改造和深色模式适配。&lt;/p&gt;
 &lt;blockquote&gt;

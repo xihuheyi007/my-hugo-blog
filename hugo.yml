@@ -75,15 +75,15 @@ params:
 menu:
   main:
     - identifier: categories
-      name: 🧩分类
+      name: 分类
       url: /categories/
       weight: 10
     - identifier: tags
-      name: 🔖标签
+      name: 标签
       url: /tags/
       weight: 20
     - identifier: archives
-      name: ⏱时间轴
+      name: 时间轴
       url: /archives/
       weight: 30
 
