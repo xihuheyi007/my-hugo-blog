@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 静水流深</title>
-    <link>http://localhost:7659/posts/</link>
+    <link>http://localhost:6092/posts/</link>
     <description>Recent content in Posts on 静水流深</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 15 May 2026 21:26:21 +0800</lastBuildDate>
-    <atom:link href="http://localhost:7659/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:6092/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>初级会计速成 · 完整知识点笔记</title>
-      <link>http://localhost:7659/posts/kuaiji/</link>
+      <link>http://localhost:6092/posts/kuaiji/</link>
       <pubDate>Fri, 15 May 2026 21:26:21 +0800</pubDate>
-      <guid>http://localhost:7659/posts/kuaiji/</guid>
+      <guid>http://localhost:6092/posts/kuaiji/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;考试日期：2026年5月16日
 两科均为机考，满分100分，60分及格
@@ -38,9 +38,9 @@
     </item>
     <item>
       <title>Cloud-Mail UI 优化实践</title>
-      <link>http://localhost:7659/posts/mail_edit/</link>
+      <link>http://localhost:6092/posts/mail_edit/</link>
       <pubDate>Thu, 30 Apr 2026 01:41:24 +0800</pubDate>
-      <guid>http://localhost:7659/posts/mail_edit/</guid>
+      <guid>http://localhost:6092/posts/mail_edit/</guid>
       <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;Cloud Mail 是一个基于 Cloudflare Workers 的邮箱服务项目，本文记录了对该项目的 UI 优化实践，包括主题系统升级、侧边栏改造和深色模式适配。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -48,18 +48,18 @@
     </item>
     <item>
       <title>倒U型关系检验方法指南</title>
-      <link>http://localhost:7659/posts/inverted_u-shaped_relation/</link>
+      <link>http://localhost:6092/posts/inverted_u-shaped_relation/</link>
       <pubDate>Fri, 24 Apr 2026 23:25:07 +0800</pubDate>
-      <guid>http://localhost:7659/posts/inverted_u-shaped_relation/</guid>
+      <guid>http://localhost:6092/posts/inverted_u-shaped_relation/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;核心问题&lt;/strong&gt;：经济学实证研究中如何严谨地检验自变量与因变量之间的非线性关系？
 &lt;strong&gt;主要标准&lt;/strong&gt;：Lind, J. T., &amp;amp; Mehlum, H. (2010). With or Without U? The Appropriate Test for a U-Shaped Relationship. &lt;em&gt;Oxford Bulletin of Economics and Statistics&lt;/em&gt;, 72(1), 117-133.&lt;/p&gt;</description>
     </item>
     <item>
       <title>双重机器学习方法简介</title>
-      <link>http://localhost:7659/posts/ml/</link>
+      <link>http://localhost:6092/posts/ml/</link>
       <pubDate>Mon, 30 Mar 2026 12:00:07 +0800</pubDate>
-      <guid>http://localhost:7659/posts/ml/</guid>
+      <guid>http://localhost:6092/posts/ml/</guid>
       <description>&lt;p&gt;参夸文献：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;胡诗云, 江弘毅, 解海天. 双重机器学习的理论与应用——从“黑箱”到“工具箱”的实践指南[J]. 数量经济技术经济研究, 2026.&lt;/li&gt;
@@ -70,30 +70,30 @@
     </item>
     <item>
       <title>放不下熟悉片段：返财专记</title>
-      <link>http://localhost:7659/posts/backtozufe/</link>
+      <link>http://localhost:6092/posts/backtozufe/</link>
       <pubDate>Wed, 18 Feb 2026 21:22:35 +0800</pubDate>
-      <guid>http://localhost:7659/posts/backtozufe/</guid>
+      <guid>http://localhost:6092/posts/backtozufe/</guid>
       <description>&lt;p&gt;和本科室友约定寒假在杭州小聚，难得人全部到齐的一次。毕业快三年了，四个人还没聚齐过，借着虚哥在杭州实习的机会终于成功会面✌️。既然到了杭州当然免不了常回家看看之财专集合活动，可惜虚哥感冒辉哥约会，只有我和杰哥两人前往下沙。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2024年考研小结</title>
-      <link>http://localhost:7659/posts/kaoyan/</link>
+      <link>http://localhost:6092/posts/kaoyan/</link>
       <pubDate>Sun, 30 Jun 2024 21:30:00 +0800</pubDate>
-      <guid>http://localhost:7659/posts/kaoyan/</guid>
+      <guid>http://localhost:6092/posts/kaoyan/</guid>
       <description>&lt;p&gt;今天收到了录取通知书，考研二战也总算是画上了一个相对圆满的句号。调剂录取新疆大学，对于我这个初试只有351分的低分选手来说已经实属上策。说相对圆满，是因为回顾去年不到半年的备考经历，还是有一些遗憾。然而如 showmaker 所言“失败总是贯穿人生始终”，记录一些心得体会，只为日后能够裨补缺漏，有所广益。&lt;/p&gt;</description>
     </item>
     <item>
       <title>比特币：原理、市场发展与各国政策</title>
-      <link>http://localhost:7659/posts/bitcoin/</link>
+      <link>http://localhost:6092/posts/bitcoin/</link>
       <pubDate>Tue, 12 Apr 2022 21:30:00 +0800</pubDate>
-      <guid>http://localhost:7659/posts/bitcoin/</guid>
+      <guid>http://localhost:6092/posts/bitcoin/</guid>
       <description>&lt;p&gt;摘要：本文分析了比特币的技术原理，阐述了其自诞生以来的市场发展状况，以及不同国家对其的政策态度。得出的结论是比特币（Bitcoin，缩写BTC）是一种基于去中心化，采用点对点网络和共识主动性，开放源代码，以区块链作为底层技术的加密货币，由中本聪（网名）于2008年发表的论文诞生。其在全球市场上发展迅猛，币值一路升高并在高点处波动。中国和美国等国家都不承认其作为货币的地位，视其为一种数字（虚拟）商品。&lt;/p&gt;</description>
     </item>
     <item>
       <title>赏月记</title>
-      <link>http://localhost:7659/posts/moon/</link>
+      <link>http://localhost:6092/posts/moon/</link>
       <pubDate>Thu, 30 Jun 2016 21:30:00 +0800</pubDate>
-      <guid>http://localhost:7659/posts/moon/</guid>
+      <guid>http://localhost:6092/posts/moon/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;图片&#34; loading=&#34;lazy&#34; src=&#34;https://xihuheyi007.github.io/picx-images-hosting/Generated-Image-February-05,-2026---5_56PM.8adrxi3f2i.webp&#34;&gt;&lt;/p&gt;
 &lt;p&gt;今年的冬天来得格外早，似乎也比去年暖和些。才过了大半个冬天，温度竟已在零度徘徊，我的心中不由得生了一丝惋惜，这个温度，可是留不住雪花的啊。&lt;/p&gt;
 &lt;p&gt;昨天夜里，大雪骤降。我坐在电脑桌前向窗外望去，十分惊喜，本以为剩下的冬天要在融化的雪水中度过。&lt;/p&gt;</description>
