@@ -1,0 +1,12 @@
+/* Prevent page-level horizontal scroll caused by wide formulas */
+.post-content {
+  overflow-x: hidden;
+}
+
+/* Make display-math containers independently scrollable */
+mjx-container[display="true"] {
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  padding: 4px 0;
+}

@@ -23,9 +23,7 @@
       <link>http://localhost:1313/posts/inverted_u-shaped_relation/</link>
       <pubDate>Fri, 24 Apr 2026 23:25:07 +0800</pubDate>
       <guid>http://localhost:1313/posts/inverted_u-shaped_relation/</guid>
-      <description>&lt;h1 id=&#34;倒u型关系检验方法指南&#34;&gt;倒U型关系检验方法指南&lt;/h1&gt;
-&lt;h2 id=&#34;-基于-lind-mehlum-2010-标准与-stata-实现&#34;&gt;—— 基于 Lind-Mehlum (2010) 标准与 Stata 实现&lt;/h2&gt;
-&lt;blockquote&gt;
+      <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;核心问题&lt;/strong&gt;：经济学实证研究中如何严谨地检验自变量与因变量之间的非线性关系？
 &lt;strong&gt;主要标准&lt;/strong&gt;：Lind, J. T., &amp;amp; Mehlum, H. (2010). With or Without U? The Appropriate Test for a U-Shaped Relationship. &lt;em&gt;Oxford Bulletin of Economics and Statistics&lt;/em&gt;, 72(1), 117-133.&lt;/p&gt;</description>
     </item>
@@ -41,6 +39,13 @@
 &lt;/ol&gt;
 &lt;h1 id=&#34;一为什么要使用双重机器学习方法&#34;&gt;一、为什么要使用双重机器学习方法？&lt;/h1&gt;
 &lt;p&gt;在潜在结果框架中，因果效应是不同处理状态下的潜在结果之差（Rubin, 2005）。$Y=DY(1)+(1-D)Y(0)$，$Y(1)-Y(0)$为个体的异质性因果效应。识别是指通过对反事实的数据生成过程进行一定的假设（“识别假设”），找到从可观测总体分布唯一地还原出因果效应的方法。随后的估计则是给定从总体分布中获得的样本，通过统计分析得到因果效应的估计量。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>放不下熟悉片段：返财专记</title>
+      <link>http://localhost:1313/posts/backtozufe/</link>
+      <pubDate>Wed, 18 Feb 2026 21:22:35 +0800</pubDate>
+      <guid>http://localhost:1313/posts/backtozufe/</guid>
+      <description>&lt;p&gt;和本科室友约定寒假在杭州小聚，难得人全部到齐的一次。毕业快三年了，四个人还没聚齐过，借着虚哥在杭州实习的机会终于成功会面✌️。既然到了杭州当然免不了常回家看看之财专集合活动，可惜虚哥感冒辉哥约会，只有我和杰哥两人前往下沙。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2024年考研小结</title>
