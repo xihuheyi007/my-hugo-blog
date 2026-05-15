@@ -4,8 +4,6 @@ draft: false
 title: '倒U型关系检验方法指南'
 categories: ["专业学习"]
 ---
-# 倒U型关系检验方法指南
-## —— 基于 Lind-Mehlum (2010) 标准与 Stata 实现
 
 > **核心问题**：经济学实证研究中如何严谨地检验自变量与因变量之间的非线性关系？
 > **主要标准**：Lind, J. T., & Mehlum, H. (2010). With or Without U? The Appropriate Test for a U-Shaped Relationship. *Oxford Bulletin of Economics and Statistics*, 72(1), 117-133.

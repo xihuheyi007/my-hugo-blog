@@ -1,0 +1,4 @@
+.main .profile {
+    min-height: unset;
+    padding: var(--gap) 0;
+}
