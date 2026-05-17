@@ -4,10 +4,24 @@
     <title>静水流深</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on 静水流深</description>
-    <generator>Hugo -- 0.161.1</generator>
+    <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 21:26:21 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 18:41:01 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo 博客实现文章修改时间显示</title>
+      <link>http://localhost:1313/posts/hugo-lastmod-display/</link>
+      <pubDate>Sun, 17 May 2026 18:41:01 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hugo-lastmod-display/</guid>
+      <description>详细介绍如何在 Hugo &#43; PaperMod 主题博客中实现文章最后修改时间的自动显示功能。</description>
+    </item>
+    <item>
+      <title>我的第一篇新文章</title>
+      <link>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%B0%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Sun, 17 May 2026 04:27:21 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%B0%E6%96%87%E7%AB%A0/</guid>
+      <description></description>
+    </item>
     <item>
       <title>初级会计速成 · 完整知识点笔记</title>
       <link>http://localhost:1313/posts/kuaiji/</link>
@@ -16,8 +30,7 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;考试日期：2026年5月16日
 两科均为机考，满分100分，60分及格
-题型：单选、多选、判断、不定项选择&lt;/p&gt;
-&lt;/blockquote&gt;
+题型：单选、多选、判断、不定项选择&lt;/p&gt;&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;第一部分初级会计实务&#34;&gt;第一部分：初级会计实务&lt;/h1&gt;
 &lt;hr&gt;
@@ -75,6 +88,14 @@
       <pubDate>Wed, 18 Feb 2026 21:22:35 +0800</pubDate>
       <guid>http://localhost:1313/posts/backtozufe/</guid>
       <description>&lt;p&gt;和本科室友约定寒假在杭州小聚，难得人全部到齐的一次。毕业快三年了，四个人还没聚齐过，借着虚哥在杭州实习的机会终于成功会面✌️。既然到了杭州当然免不了常回家看看之财专集合活动，可惜虚哥感冒辉哥约会，只有我和杰哥两人前往下沙。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>《共同的底线》摘录</title>
+      <link>http://localhost:1313/posts/gongtongdedixian/</link>
+      <pubDate>Mon, 12 Jan 2026 21:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/gongtongdedixian/</guid>
+      <description>&lt;p&gt;正如布伦德尔等人指出：以国家干预还是自由放任两种选择对应经济与伦理—意识形态两大领域，英国（实际也是西方）有四种社会政治态度——&lt;/p&gt;
+&lt;p&gt;“社会主义”或者说是传统西方左派，主张国家干预经济（国有制，计划经济等），而反对国家干预伦理（即主张伦理上的个性解放，反对家庭束缚、国家至上、民族主义、宗教责任之类的伦理桎梏。值得一提的是：东方“左派”除了其早期的“西化”启蒙阶段外，通常都缺欠这一取向，他们的取向恰恰与下文讲的“威权主义”更类似）。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2024年考研小结</title>

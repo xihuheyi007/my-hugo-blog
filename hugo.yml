@@ -19,6 +19,7 @@ markup:
             - ['\(', '\)']
         enable: true
 
+enableGitInfo: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
