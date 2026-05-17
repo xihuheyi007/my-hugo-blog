@@ -2,31 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>随笔 on 静水流深</title>
-    <link>http://localhost:6092/categories/%E9%9A%8F%E7%AC%94/</link>
+    <link>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</link>
     <description>Recent content in 随笔 on 静水流深</description>
-    <generator>Hugo -- 0.149.0</generator>
+    <generator>Hugo -- 0.161.1</generator>
     <language>en</language>
     <lastBuildDate>Wed, 18 Feb 2026 21:22:35 +0800</lastBuildDate>
-    <atom:link href="http://localhost:6092/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>放不下熟悉片段：返财专记</title>
-      <link>http://localhost:6092/posts/backtozufe/</link>
+      <link>http://localhost:1313/posts/backtozufe/</link>
       <pubDate>Wed, 18 Feb 2026 21:22:35 +0800</pubDate>
-      <guid>http://localhost:6092/posts/backtozufe/</guid>
+      <guid>http://localhost:1313/posts/backtozufe/</guid>
       <description>&lt;p&gt;和本科室友约定寒假在杭州小聚，难得人全部到齐的一次。毕业快三年了，四个人还没聚齐过，借着虚哥在杭州实习的机会终于成功会面✌️。既然到了杭州当然免不了常回家看看之财专集合活动，可惜虚哥感冒辉哥约会，只有我和杰哥两人前往下沙。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2024年考研小结</title>
-      <link>http://localhost:6092/posts/kaoyan/</link>
+      <link>http://localhost:1313/posts/kaoyan/</link>
       <pubDate>Sun, 30 Jun 2024 21:30:00 +0800</pubDate>
-      <guid>http://localhost:6092/posts/kaoyan/</guid>
+      <guid>http://localhost:1313/posts/kaoyan/</guid>
       <description>&lt;p&gt;今天收到了录取通知书，考研二战也总算是画上了一个相对圆满的句号。调剂录取新疆大学，对于我这个初试只有351分的低分选手来说已经实属上策。说相对圆满，是因为回顾去年不到半年的备考经历，还是有一些遗憾。然而如 showmaker 所言“失败总是贯穿人生始终”，记录一些心得体会，只为日后能够裨补缺漏，有所广益。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>《美丽心灵》</title>
+      <link>http://localhost:1313/posts/abeatifulmind/</link>
+      <pubDate>Wed, 30 Mar 2022 23:08:10 +0000</pubDate>
+      <guid>http://localhost:1313/posts/abeatifulmind/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;“普林斯顿的幽灵，可是谁要是嘲笑他的话，谁自己就会成为笑话。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;John Nash试图创造一种全新的理论，用自己深爱的数字和逻辑拯救世人。Narcissus，爱上的是自己的倒影，爱的是Nash这个实实在在的人；而我们的Nash，爱上的是自己的天分，无法接受自己变成一个社会中的凡人。然而当这种爱被冠以救赎世人的野心的时候，就显出了太多的自私与伟大。巧妙的是正如他的“博弈论”，同样是研究在个人利益达到最大时，给予团体最大的利益。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>赏月记</title>
-      <link>http://localhost:6092/posts/moon/</link>
+      <link>http://localhost:1313/posts/moon/</link>
       <pubDate>Thu, 30 Jun 2016 21:30:00 +0800</pubDate>
-      <guid>http://localhost:6092/posts/moon/</guid>
+      <guid>http://localhost:1313/posts/moon/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;图片&#34; loading=&#34;lazy&#34; src=&#34;https://xihuheyi007.github.io/picx-images-hosting/Generated-Image-February-05,-2026---5_56PM.8adrxi3f2i.webp&#34;&gt;&lt;/p&gt;
 &lt;p&gt;今年的冬天来得格外早，似乎也比去年暖和些。才过了大半个冬天，温度竟已在零度徘徊，我的心中不由得生了一丝惋惜，这个温度，可是留不住雪花的啊。&lt;/p&gt;
 &lt;p&gt;昨天夜里，大雪骤降。我坐在电脑桌前向窗外望去，十分惊喜，本以为剩下的冬天要在融化的雪水中度过。&lt;/p&gt;</description>
