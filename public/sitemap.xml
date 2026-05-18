@@ -2,97 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-05-17T18:41:01+08:00</lastmod>
+    <loc>https://blog.baoyuchen.top/categories/</loc>
+    <lastmod>2026-05-17T18:43:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2026-05-17T18:41:01+08:00</lastmod>
+    <loc>https://blog.baoyuchen.top/tags/hugo/</loc>
+    <lastmod>2026-05-17T18:43:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hugo-lastmod-display/</loc>
-    <lastmod>2026-05-17T18:41:01+08:00</lastmod>
+    <loc>https://blog.baoyuchen.top/posts/hugo-lastmod-display/</loc>
+    <lastmod>2026-05-17T18:43:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-05-17T18:41:01+08:00</lastmod>
+    <loc>https://blog.baoyuchen.top/posts/</loc>
+    <lastmod>2026-05-17T18:43:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-05-17T18:41:01+08:00</lastmod>
+    <loc>https://blog.baoyuchen.top/tags/</loc>
+    <lastmod>2026-05-17T18:43:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2026-05-17T18:41:01+08:00</lastmod>
+    <loc>https://blog.baoyuchen.top/categories/%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2026-05-17T18:43:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2026-05-17T18:41:01+08:00</lastmod>
+    <loc>https://blog.baoyuchen.top/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2026-05-17T18:43:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-17T18:41:01+08:00</lastmod>
+    <loc>https://blog.baoyuchen.top/</loc>
+    <lastmod>2026-05-17T18:43:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%B0%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2026-05-17T04:27:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E4%BC%9A%E8%AE%A1/</loc>
+    <loc>https://blog.baoyuchen.top/tags/%E4%BC%9A%E8%AE%A1/</loc>
     <lastmod>2026-05-15T21:28:37+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kuaiji/</loc>
+    <loc>https://blog.baoyuchen.top/posts/kuaiji/</loc>
     <lastmod>2026-05-15T21:28:37+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mail_edit/</loc>
+    <loc>https://blog.baoyuchen.top/posts/mail_edit/</loc>
     <lastmod>2026-04-30T01:44:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6/</loc>
+    <loc>https://blog.baoyuchen.top/categories/%E5%85%B4%E8%B6%A3%E4%BD%BF%E7%84%B6/</loc>
     <lastmod>2026-04-30T01:44:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/inverted_u-shaped_relation/</loc>
+    <loc>https://blog.baoyuchen.top/posts/inverted_u-shaped_relation/</loc>
     <lastmod>2026-05-15T16:57:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ml/</loc>
+    <loc>https://blog.baoyuchen.top/posts/ml/</loc>
     <lastmod>2026-05-17T12:15:03+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://blog.baoyuchen.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2026-05-17T12:15:03+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%84%9F%E6%83%B3/</loc>
+    <loc>https://blog.baoyuchen.top/tags/%E6%84%9F%E6%83%B3/</loc>
     <lastmod>2026-05-15T16:57:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/backtozufe/</loc>
+    <loc>https://blog.baoyuchen.top/posts/backtozufe/</loc>
     <lastmod>2026-05-15T16:57:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%B8%B8%E8%AE%B0/</loc>
+    <loc>https://blog.baoyuchen.top/tags/%E6%B8%B8%E8%AE%B0/</loc>
     <lastmod>2026-05-15T16:57:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2026-05-17T13:24:14+08:00</lastmod>
+    <loc>https://blog.baoyuchen.top/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2026-05-17T18:43:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/gongtongdedixian/</loc>
-    <lastmod>2026-05-17T13:24:14+08:00</lastmod>
+    <loc>https://blog.baoyuchen.top/posts/gongtongdedixian/</loc>
+    <lastmod>2026-05-17T18:43:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E9%98%85%E8%AF%BB/</loc>
-    <lastmod>2026-05-17T13:24:14+08:00</lastmod>
+    <loc>https://blog.baoyuchen.top/tags/%E9%98%85%E8%AF%BB/</loc>
+    <lastmod>2026-05-17T18:43:43+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kaoyan/</loc>
+    <loc>https://blog.baoyuchen.top/posts/kaoyan/</loc>
     <lastmod>2026-02-10T16:48:31+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%80%BB%E7%BB%93/</loc>
+    <loc>https://blog.baoyuchen.top/tags/%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2026-02-10T16:48:31+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E5%AD%98%E6%A1%A3/</loc>
+    <loc>https://blog.baoyuchen.top/categories/%E5%AD%98%E6%A1%A3/</loc>
     <lastmod>2026-02-10T16:46:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/bitcoin/</loc>
+    <loc>https://blog.baoyuchen.top/posts/bitcoin/</loc>
     <lastmod>2026-02-10T16:46:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A/</loc>
+    <loc>https://blog.baoyuchen.top/tags/%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A/</loc>
     <lastmod>2026-02-10T16:46:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/abeatifulmind/</loc>
+    <loc>https://blog.baoyuchen.top/posts/abeatifulmind/</loc>
     <lastmod>2026-05-17T12:15:03+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E8%A7%82%E5%90%8E%E6%84%9F/</loc>
+    <loc>https://blog.baoyuchen.top/tags/%E8%A7%82%E5%90%8E%E6%84%9F/</loc>
     <lastmod>2026-05-17T12:15:03+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/moon/</loc>
+    <loc>https://blog.baoyuchen.top/posts/moon/</loc>
     <lastmod>2026-02-10T16:52:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://blog.baoyuchen.top/archives/</loc>
     <lastmod>2026-05-15T16:46:08+08:00</lastmod>
   </url>
 </urlset>

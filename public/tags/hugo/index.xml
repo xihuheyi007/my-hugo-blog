@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on 静水流深</title>
-    <link>http://localhost:1313/tags/hugo/</link>
+    <link>https://blog.baoyuchen.top/tags/hugo/</link>
     <description>Recent content in Hugo on 静水流深</description>
-    <generator>Hugo -- 0.149.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 18:41:01 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 May 2026 18:43:43 +0800</lastBuildDate>
+    <atom:link href="https://blog.baoyuchen.top/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo 博客实现文章修改时间显示</title>
-      <link>http://localhost:1313/posts/hugo-lastmod-display/</link>
+      <link>https://blog.baoyuchen.top/posts/hugo-lastmod-display/</link>
       <pubDate>Sun, 17 May 2026 18:41:01 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hugo-lastmod-display/</guid>
+      <guid>https://blog.baoyuchen.top/posts/hugo-lastmod-display/</guid>
       <description>详细介绍如何在 Hugo &#43; PaperMod 主题博客中实现文章最后修改时间的自动显示功能。</description>
     </item>
   </channel>
