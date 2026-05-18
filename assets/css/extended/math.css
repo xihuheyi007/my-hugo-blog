@@ -1,5 +1,5 @@
 /* Prevent page-level horizontal scroll caused by wide formulas */
-.post-content {
+.md-content {
   overflow-x: hidden;
 }
 
