@@ -34,7 +34,7 @@ minify:
   minifyOutput: true
 
 params:
-  math: true
+  math: false
   env: production # 生产环境模式
   title: "静水流深"
   description: "基于 Hugo 的高性能博客"
