@@ -1,0 +1,20 @@
+/* Footnote reference superscripts must not inflate the line box.
+   Browser default `vertical-align: super` grows any line containing a
+   footnote marker (measured 25.59px -> 28.92px). Resetting the alignment
+   and collapsing line-height keeps the marker raised and visible without
+   affecting line box height. Values follow GitHub / Tailwind Typography. */
+.post-content sup,
+.post-content sub {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+.post-content sup {
+    top: -0.5em;
+}
+
+.post-content sub {
+    bottom: -0.25em;
+}
