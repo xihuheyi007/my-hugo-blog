@@ -1,0 +1,11 @@
+/* Standard article-body layout layer (GitHub markdown-body parity).
+ *
+ * List gutter: 2em (PaperMod theme default was 1.25rem = 20px). em-based so
+ * it scales with the text size, and wide enough that outside-positioned
+ * ordinal markers (footnote numbers "10.", "11.", …) always stay clear of
+ * the article's left edge. Before this, two-digit markers overflowed the
+ * 20px gutter and were clipped by the (now removed) `overflow-x: hidden`. */
+.md-content ol,
+.md-content ul {
+    padding-inline-start: 2em;
+}

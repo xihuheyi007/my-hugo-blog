@@ -4,6 +4,12 @@ MathJax = {
     displayMath: [['\\[', '\\]'], ['$$', '$$']],
     inlineMath: [['$', '$'], ['\\(', '\\)']]
   },
+  chtml: {
+    /* Wide display math scrolls inside its own container instead of
+       overflowing the article column (MathJax sets the container's
+       `overflow="scroll"` attribute and styles it accordingly). */
+    displayOverflow: 'scroll'
+  },
   loader: {
     load: ['ui/safe']
   }

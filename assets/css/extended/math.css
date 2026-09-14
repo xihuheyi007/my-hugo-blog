@@ -1,12 +1,11 @@
-/* Prevent page-level horizontal scroll caused by wide formulas */
-.md-content {
-  overflow-x: hidden;
-}
-
-/* Make display-math containers independently scrollable */
-mjx-container[display="true"] {
-  overflow-x: auto;
-  overflow-y: hidden;
-  -webkit-overflow-scrolling: touch;
-  padding: 4px 0;
-}
+/* Math rendering — intentionally no active rules.
+ *
+ * Wide display math is handled natively by MathJax 4: the config in
+ * layouts/partials/math.html sets `chtml.displayOverflow: 'scroll'`, which
+ * tags the container with overflow="scroll" and lets MathJax's own
+ * stylesheet make it scroll (`overflow: auto clip; min-width: initial !important`).
+ *
+ * The previous blanket `.md-content { overflow-x: hidden }` was removed: it
+ * clipped the left edge of list markers (e.g. two-digit footnote ordinals)
+ * that are painted in the list gutter outside the content box.
+ */ 
