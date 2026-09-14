@@ -1,5 +1,7 @@
 baseURL: "https://blog.baoyuchen.top/"
 title: "静水流深"
+locale: zh-CN
+defaultContentLanguage: zh
 pagination:
   pagerSize: 10
 theme: "PaperMod"
